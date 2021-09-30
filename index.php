@@ -28,6 +28,8 @@
                     <li class="nav-item" role="presentation"><a class="nav-link" href="IV_A.php">IV A</a></li>
                     <li class="nav-item" role="presentation"><a class="nav-link" href="VI_2.php">IV 2</a></li>
                     <li class="nav-item" role="presentation"><a class="nav-link" href="VI_3.php">VI 3</a></li>
+                    <li class="nav-item" role="presentation"><a class="nav-link" href="VIII_A.php">VIII A</a></li>
+                    <li class="nav-item" role="presentation"><a class="nav-link" href="VIII_B.php">VIII B</a></li>
                 </ul>
             </div>
         </div>
@@ -37,7 +39,7 @@
             <div class="row">
                 <div class="col-12 col-lg-6 col-xl-5 offset-xl-1">
                     <h1>Bienvenue sur mon TP N°1.</h1>
-                    <p>Vous retrouverez ici 5 exercices avec différents calculs. Ce sont des exercices issus de différents TD et à rendre pour samedi 02/10/2021. Je vous souhaite une bonne lecture et de faire de bon calculs ! </p></div>
+                    <p>Vous retrouverez ici 4 exercices <strong>(VI 3 / VIII A / VIII B En plus)</strong> avec différents calculs. Ce sont des exercices issus de différents TD et à rendre pour samedi 02/10/2021. Je vous souhaite une bonne lecture et de faire de bon calculs ! </p></div>
                 <div
                     class="col-md-5 col-lg-5 offset-lg-1 offset-xl-0 d-none d-lg-block phone-holder">
                     <div class="iphone-mockup"><img class="device" src="assets/img/iphone.svg">

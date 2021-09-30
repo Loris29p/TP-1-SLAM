@@ -8,7 +8,7 @@
         $i = 0;
         while ($i * $i <= $value)
         {
-            $i = $i + 1;
+            $i++;
         }
         return $i - 1;
     }
@@ -45,11 +45,13 @@
             <div class="collapse navbar-collapse"
                 id="navcol-1">
                 <ul class="nav navbar-nav ml-auto">
-                    <li class="nav-item" role="presentation"><a class="nav-link" href="II_B.php">II B</a></li>
+                <li class="nav-item" role="presentation"><a class="nav-link" href="II_B.php">II B</a></li>
                     <li class="nav-item" role="presentation"><a class="nav-link" href="II_C.php">II C</a></li>
                     <li class="nav-item" role="presentation"><a class="nav-link" href="IV_A.php">IV A</a></li>
                     <li class="nav-item" role="presentation"><a class="nav-link" href="VI_2.php">IV 2</a></li>
                     <li class="nav-item" role="presentation"><a class="nav-link" href="VI_3.php">VI 3</a></li>
+                    <li class="nav-item" role="presentation"><a class="nav-link" href="VIII_A.php">VIII A</a></li>
+                    <li class="nav-item" role="presentation"><a class="nav-link" href="VIII_B.php">VIII B</a></li>
                 </ul>
             </div>
         </div>
